@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://butterbeancafeza.co.za/sitemap.xml
